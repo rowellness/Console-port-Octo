@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: ConsolePortOcto
+## Notes: Steam Deck controller HUD for Turtle WoW / OctoWoW.
+## Author: ConsolePortOcto Contributors
+## Version: 0.2.0-alpha
+## SavedVariables: ConsolePortOctoDB
+
+Core.lua
+Compat.lua
+BindingsReader.lua
+HUD.lua
+PanelState.lua
+MouseMode.lua
+Debug.lua
